@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about computational linguistics and
 
 ## 📂 Projects
 
-- **[Basra Card Game](link-to-repo)**: A Python-based implementation of the Syrian traditional Basra card game with a Pygame GUI.
+- **[Basra Card Game](https://github.com/your-username/basra-card-game)**: A Python-based implementation of the Syrian traditional Basra card game with a Pygame GUI.
 
 ## 💬 Let's Connect!
 
