@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Majd Aldaye
 
-<!--
-**majd-aldaye1/majd-aldaye1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Engineer | Computer Science Student at Cornell University**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about computational linguistics and applying machine learning technologies to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+- 🎓 Computer Science Major, Cornell University '25
+- 🌱 Interested in Machine Learning, NLP, and Computational Linguistics
+- 💼 Software Engineering Intern at eCornell
+
+## 📂 Projects
+
+- **[Basra Card Game](link-to-repo)**: A Python-based implementation of the Syrian traditional Basra card game with a Pygame GUI.
+
+## 💬 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/majd-aldaye-9358731a5)
+- 📫 Email: ma798@cornell.edu
+
+---
+
+Feel free to explore my repositories, and don't hesitate to reach out!
